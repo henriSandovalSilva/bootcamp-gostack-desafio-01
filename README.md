@@ -1,3 +1,10 @@
+## O que aprendi nesse módulo?
+
+- [x] Usar o Express.js
+- [x] Criar rotas `GET`, `POST`, `PUT`, `DELETE`
+- [x] Middlewares globais e locais 
+- [x] Query e Route params
+
 # Desafio 01. Conceitos do NodeJS
 
 Crie uma aplicação do zero utilizando Express.
